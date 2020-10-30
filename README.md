@@ -1,4 +1,4 @@
-# Python_TEDrecommendation
+# Python_NTLK_TEDrecommendation
 Python - TED recommendation system
 
 The project aimed to develop TED recommendation system via Python language in Jupyter Notebook. Following that, the system was based on topic modeling using gensim package. Models with different number of topics were trained, only the one produced the consistent coherence score was chosen (in this case, topics = 40). The results were evaluated based on how relevant the recommendations of your topic model are and provide reasons to support the judgments. The two videos were used in the evaluation section are:
